@@ -1,64 +1,38 @@
-C++ Beginner Programs
+# C++ Beginner Programs
 
 This repository contains my beginner-level C++ programs and programming practice as I learn the fundamentals of C++.
 
-📚 Programs Included
-1. Calculator
+## Programs Included
 
-A basic calculator that performs:
+### 1. PSL Ticket Booking
+A simple ticket booking program...
 
-Addition
-Subtraction
-Multiplication
-Division
-Remainder
+### 2. Calculator
+A basic calculator...
 
-Concepts: switch, if-else, arithmetic operators, user input
+### 3. Digit Sum
+Calculates the sum of the digits...
 
-2. PSL Ticket Booking
+### 4. Factorial Calculator
+Calculates the factorial of a number...
 
-A simple Pakistan Super League ticket booking program that allows the user to select a ticket category and applies a student discount.
+### 5. Class Average Calculator
+Calculates the average marks of a class...
 
-Concepts: switch, if-else, user input, variables
+## Concepts I'm Practicing
 
-3. Digit Sum
+- C++ Syntax
+- Variables and Data Types
+- if-else
+- switch
+- for loops
+- while loops
+- do-while loops
 
-Takes a positive integer, displays its individual digits, and calculates the sum of those digits.
+## Purpose
 
-Concepts: for loop, strings, input validation, character handling
+This repository is part of my journey in learning C++ programming.
 
-4. Factorial Calculator
-
-Calculates the factorial of a positive integer using a loop.
-
-Concepts: while loop, variables, arithmetic operations
-
-5. Class Average Calculator
-
-Takes marks for multiple students and calculates the average marks of the class.
-
-Concepts: while loop, user input, accumulation, average calculation
-
-🛠️ Concepts I'm Practicing
-C++ Syntax
-Variables and Data Types
-User Input and Output
-Arithmetic Operators
-if-else Statements
-switch Statements
-for Loops
-while Loops
-do-while Loops
-Basic Input Validation
-🎯 Purpose
-
-This repository is part of my journey in learning C++ programming. I am currently focusing on building a strong foundation in programming logic and problem-solving.
-
-I plan to continue adding more programs as I learn new C++ concepts.
-
-👨‍💻 Author
+## Author
 
 Huzaif Nayyar
-
-BS Artificial Intelligence Student
-Bahria University Islamabad E-8
